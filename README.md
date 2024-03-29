@@ -2,7 +2,8 @@
 
 # PyCitySchools Analysis
 
-![PyCitySchools](education.png)
+![education](https://github.com/onemanlutta/pandas-challenge/assets/118937365/799f70b7-a77a-4ab5-b425-2fa136e2dc88)
+
 
 ## Project Overview
 As the new Chief Data Scientist for the city's school district, the goal is to provide strategic insights and recommendations to the school board and mayor. This involves analyzing district-wide standardized test results, including math and reading scores, as well as various school-related information. The analysis aims to identify trends and patterns in school performance to inform future budget allocation and policy decisions.
@@ -30,22 +31,26 @@ As the new Chief Data Scientist for the city's school district, the goal is to p
 - % passing reading: 85.81%
 - % overall passing: 65.17%
 
-![District Summary Results](<District Summary Table-1.png>)
+![District Summary Table](https://github.com/onemanlutta/pandas-challenge/assets/118937365/957f6378-47cb-4b18-bdd2-0a9f9329e225)
+
 
 ### School Summary
 - School-specific metrics including average scores, passing rates, and budgets.
 
-![Schoo Summary](<School Summary Results-1.png>)
+![School Summary Results](https://github.com/onemanlutta/pandas-challenge/assets/118937365/07e04ed9-c9ea-4525-be3a-ec4d5df7554d)
+
 
 ### Highest-Performing Schools (by % Overall Passing)
 - Top 5 schools with the highest overall passing rates.
 
-![Top 5 Schools](<Highest Performing Schools-1.png>)
+![Highest Performing Schools](https://github.com/onemanlutta/pandas-challenge/assets/118937365/9e6939d1-8735-49be-b223-cfe8d052f08e)
+
 
 ### Lowest-Performing Schools (by % Overall Passing)
 - Top 5 schools with the lowest overall passing rates.
 
-![Bottom 5 Schools](<Lowest Performing Schools-1.png>)
+![Lowest Performing Schools](https://github.com/onemanlutta/pandas-challenge/assets/118937365/5bd68fbc-aa12-4291-8613-45726c1d7639)
+
 
 ### Math Scores by Grade
 - Average math scores by grade level for each school.
@@ -56,17 +61,20 @@ As the new Chief Data Scientist for the city's school district, the goal is to p
 ### Scores by School Spending
 - Breakdown of school performance based on spending ranges per student.
 
-![School Spending](<School Spending-1.png>)
+![School Spending](https://github.com/onemanlutta/pandas-challenge/assets/118937365/544bb3e1-49c6-4d90-a934-63aafd800f34)
+
 
 ### Scores by School Size
 - School performance categorized by small, medium, and large sizes.
 
-![School Size](<School Sizes-1.png>)
+![School Sizes](https://github.com/onemanlutta/pandas-challenge/assets/118937365/cc0d7d0a-cfb7-4aa8-9081-4b17c972b930)
+
 
 ### Scores by School Type
 - Comparison of school performance based on school type (charter vs. district).
 
-![School Type](<School Type-1.png>)
+![School Type](https://github.com/onemanlutta/pandas-challenge/assets/118937365/85c5f766-59cc-41d1-9cf0-f64f9417121c)
+
 
 ## Observations
 1. **Spending Impact**: Schools with lower per student budgets (<$585) tend to have higher overall passing rates compared to schools with higher per student budgets.
